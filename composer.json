@@ -1,4 +1,7 @@
 {
     "name": "tenasterisks/dependecy-injection-lecture",
-    "require": {}
+    "require": {
+        "pimple/pimple": "^3.0",
+        "php-di/php-di": "^6.0"
+    }
 }
