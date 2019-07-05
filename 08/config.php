@@ -1,6 +1,6 @@
 <?php
 
-
+// FRAMEWORK CONFIGURATION //
 require __DIR__ . '/../vendor/autoload.php';
 
 
@@ -11,3 +11,4 @@ $builder->addDefinitions([
 ]);
 
 $container = $builder->build();
+// FRAMEWORK CONFIGURATION //

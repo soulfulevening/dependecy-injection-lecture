@@ -1,6 +1,6 @@
 <?php
 
-
+// FRAMEWORK CONFIGURATION //
 require __DIR__ . '/../vendor/autoload.php';
 
 $container = new \Pimple\Container();
@@ -14,3 +14,4 @@ $container['order.processing'] = function ($container) {
 };
 
 $serviceLocator = new \Pimple\Psr11\ServiceLocator($container, ['logger', 'order.processing']);
+// FRAMEWORK CONFIGURATION //
