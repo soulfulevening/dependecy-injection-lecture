@@ -20,5 +20,5 @@
 - [Первоисточник о внедрении зависимостей](https://martinfowler.com/articles/injection.html)
 - [Статья на хабре](https://habr.com/ru/post/350068/)
 - [Подкаст о DI](https://soundcloud.com/podlodka/podlodka-3-ioc-di-i-dip)
-
-
+- [Reflection PHP](https://www.php.net/manual/ru/book.reflection.php)
+- [Рефлексия](https://www.youtube.com/watch?v=-gK2CGId5RA)
